@@ -1,7 +1,3 @@
-Here's a polished README for your GitHub project:
-
----
-
 # AWS S3 and Amazon QuickSight Project
 
 ## Table of Contents
